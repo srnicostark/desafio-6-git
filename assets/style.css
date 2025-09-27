@@ -1,0 +1,23 @@
+body {
+    padding-top: 60px;
+}
+
+.encabezado {
+    padding: 40px;
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.titulo-seccion {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+footer {
+    padding: 20px;
+}
