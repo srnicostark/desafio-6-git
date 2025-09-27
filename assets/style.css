@@ -21,3 +21,7 @@ body {
 footer {
     padding: 20px;
 }
+
+.desafio-imgs {
+    max-width: 800px;
+}
