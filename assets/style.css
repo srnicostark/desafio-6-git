@@ -26,7 +26,17 @@ article {
     max-width: 800px;
 }
 
+.img-desafios {
+    height: 200px;
+}
+.img-principal {
+    width: 800px;
+    height: 400px;
+}
+
 .desafio-imgs img {
     max-width: 50%;
+    width: 390px;
+    height: 200px;
 }
 
